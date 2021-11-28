@@ -7,9 +7,9 @@
 **Software development**: lead developer of [ONSAS.m](https://github.com/ONSAS/ONSAS.m/) an Open Nonlinear Structural Analysis Solver for Octave/Matlab, Julia apprentice 👨‍🎓 , LaTeX enthusiast
 
 **Three selected publications** (more at my [Google scholar profile](https://scholar.google.com.uy/citations?user=Qb476KIAAAAJ&hl=en))
- - M. Forets, D. Freire Caporale, J. M. Pérez Zerpa, [Combining Set Propagation with Finite Element Methods for Time Integration in Transient Solid Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045794921002212), _Computers & Structures_, 2022
- - J. M. Pérez Zerpa, G. D. Maso Talou, P. J. Blanco, [A new robust formulation for optical-flow/material identification problems](https://www.sciencedirect.com/science/article/abs/pii/S0045782519302099), _Computer Methods in Applied Mechanics and Engineering_, 2019
- - J. M. Pérez Zerpa, et. al., [Modeling the arterial wall mechanics using a novel high-order viscoelastic fractional element](https://www.sciencedirect.com/science/article/pii/S0307904X15002577), _Applied Mathematical Modelling_, 2015
+ - [Combining Set Propagation with Finite Element Methods for Time Integration in Transient Solid Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045794921002212), _Computers & Structures_, 2022
+ - [A new robust formulation for optical-flow/material identification problems](https://www.sciencedirect.com/science/article/abs/pii/S0045782519302099), _Computer Methods in Applied Mechanics and Engineering_, 2019
+ - [Modeling the arterial wall mechanics using a novel high-order viscoelastic fractional element](https://www.sciencedirect.com/science/article/pii/S0307904X15002577), _Applied Mathematical Modelling_, 2015
 
 **Interests**:  Nonlinear Structural Analysis, Inverse problems in solid mechanics, Computational Biomechanics
 
