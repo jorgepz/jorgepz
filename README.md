@@ -14,4 +14,3 @@
 **Interests**:  Nonlinear Structural Analysis, Inverse problems in solid mechanics, Computational Biomechanics
 
 **Contact** my email is on [my website](https://www.fing.edu.uy/~jorgepz/)
-
