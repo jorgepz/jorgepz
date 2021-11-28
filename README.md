@@ -2,12 +2,7 @@
 
 #### Brief Academic Bio
 
- - 1985 - born 👶
- - 2008 - Research Internship at INRIA, LRI, Université Paris Sud XI @ France
- - 2009 - Structural Civil Engineer @ Universidad de la Republica @ Uruguay
- - 2012 - Master in Mechanical Engineering, Universidade Federal do Rio de Janeiro @ Brasil
- - 2015 - Doctorate in Structural Engineering, Universidad de la República @ Uruguay
- - 2016 - Adjunt Professor at School of Engineering, Universidad de la República @ Uruguay
+1985: born 👶 , 2008: Research Internship at INRIA, Université Paris Sud XI @ 🇫🇷 , 2009: Structural Civil Engineer, Universidad de la Republica @ 🇺🇾 , 2012: Master in Mechanical Engineering, Universidade Federal do Rio de Janeiro @ 🇧🇷 , 2015: Doctorate in Structural Engineering, Universidad de la República @ 🇺🇾 , 2016: Assistant Professor at School of Engineering, Universidad de la República @ 🇺🇾
 
 #### 3 selected publications
  - 2022 - M. Forets, D. Freire Caporale, J. M. Pérez Zerpa, Combining Set Propagation with Finite Element Methods for Time Integration in Transient Solid Mechanics Problems, _Computers & Structures_, https://www.sciencedirect.com/science/article/abs/pii/S0045794921002212 
