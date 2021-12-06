@@ -4,7 +4,7 @@
 
 **Brief Bio**: 1985: born 👶 / 2008: Research Internship at INRIA, Université Paris Sud XI @ 🇫🇷 / 2009: Structural Civil Engineer, Universidad de la Republica @ 🇺🇾 / 2012: Master in Mechanical Engineering, Universidade Federal do Rio de Janeiro @ 🇧🇷 / 2015: Doctorate in Structural Engineering, Universidad de la República @ 🇺🇾 / 2016: Assistant Professor at School of Engineering, Universidad de la República @ 🇺🇾 / 2018: Level 1 Researcher at sni.org.uy
 
-**Software development**: lead developer of [ONSAS.m](https://github.com/ONSAS/ONSAS.m/) an Open Nonlinear Structural Analysis Solver for Octave/Matlab, Julia apprentice 👨‍🎓 , LaTeX enthusiast
+**Software development**: lead developer of [ONSAS.m](https://github.com/ONSAS/ONSAS.m/), Julia apprentice 👨‍🎓 and LaTeX enthusiast
 
 **Three selected publications** (more at my [Google scholar profile](https://scholar.google.com.uy/citations?user=Qb476KIAAAAJ&hl=en))
  - [Combining Set Propagation with Finite Element Methods for Time Integration in Transient Solid Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045794921002212), _Computers & Structures_, 2022
