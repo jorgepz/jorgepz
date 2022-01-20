@@ -1,4 +1,5 @@
-### Jorge Pérez Zerpa - Researcher in computational mechanics -  <a href="https://www.linkedin.com/in/jorgejmpz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### Jorge Pérez Zerpa, Dr. Ing. - Researcher in Computational Mechanics
+<a href="https://www.linkedin.com/in/jorgejmpz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 **Brief Bio**: 1985: born 👶 / 2008: Research Internship at INRIA, Université Paris Sud XI @ 🇫🇷 / 2009: Structural Civil Engineer, Universidad de la Republica @ 🇺🇾 / 2012: Master in Mechanical Engineering, Universidade Federal do Rio de Janeiro @ 🇧🇷 / 2015: Doctorate in Structural Engineering, Universidad de la República @ 🇺🇾 / 2016: _Profesor Adjunto_ at School of Engineering, Universidad de la República @ 🇺🇾 / 2018: Level 1 Researcher at sni.org.uy
 
