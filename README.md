@@ -1,9 +1,9 @@
 ### Jorge Pérez Zerpa, Dr. Ing. - Researcher in Computational Mechanics
 <a href="https://www.linkedin.com/in/jorgejmpz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**Brief Bio**: 1985: born 👶 / 2008: Research Internship at INRIA, Université Paris Sud XI @ 🇫🇷 / 2009: Structural Civil Engineer, Universidad de la Republica @ 🇺🇾 / 2012: Master in Mechanical Engineering, Universidade Federal do Rio de Janeiro @ 🇧🇷 / 2015: Doctorate in Structural Engineering, Universidad de la República @ 🇺🇾 / 2016: _Profesor Adjunto_ at School of Engineering, Universidad de la República @ 🇺🇾 / 2018: Level 1 Researcher at sni.org.uy
+**Brief Bio**: 2008: Research Internship at INRIA, Université Paris Sud XI @ 🇫🇷 / 2009: Structural Civil Engineer, Universidad de la Republica @ 🇺🇾 / 2012: Master in Mechanical Engineering, Universidade Federal do Rio de Janeiro @ 🇧🇷 / 2015: Doctorate in Structural Engineering, Universidad de la República @ 🇺🇾 / 2016: _Profesor Adjunto_ at School of Engineering, Universidad de la República @ 🇺🇾 / 2018: Level 1 Researcher at sni.org.uy
 
-**Software development**: lead developer of [ONSAS.m](https://github.com/ONSAS/ONSAS.m/), Julia apprentice 👨‍🎓 and LaTeX enthusiast
+**Software development**: lead developer of [ONSAS.m](https://github.com/ONSAS/ONSAS.m/), Julia apprentice and LaTeX enthusiast
 
 **Three selected publications** (more at my [Google scholar profile](https://scholar.google.com.uy/citations?user=Qb476KIAAAAJ&hl=en))
  - [Combining Set Propagation with Finite Element Methods for Time Integration in Transient Solid Mechanics Problems](https://www.sciencedirect.com/science/article/abs/pii/S0045794921002212), _Computers & Structures_, 2022
